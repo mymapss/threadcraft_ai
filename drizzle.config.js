@@ -4,8 +4,8 @@ export default {
   out: "./drizzle",
 
   dbCredentials: {
-    url: "postgresql://zerotohero_owner:SPVe2rokvBf6@ep-bitter-shadow-a5lbwa60.us-east-2.aws.neon.tech/threadcraft?sslmode=require",
+    url: "postgresql://neondb_owner:rJUqgBv4LM8u@ep-purple-field-a17kuqe7.ap-southeast-1.aws.neon.tech/threadcraft_ai?sslmode=require",
     connectionString:
-      "postgresql://zerotohero_owner:SPVe2rokvBf6@ep-bitter-shadow-a5lbwa60.us-east-2.aws.neon.tech/threadcraft?sslmode=require",
+      "postgresql://neondb_owner:rJUqgBv4LM8u@ep-purple-field-a17kuqe7.ap-southeast-1.aws.neon.tech/threadcraft_ai?sslmode=require",
   },
 };
